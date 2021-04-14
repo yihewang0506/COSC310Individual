@@ -1,0 +1,12 @@
+language: python
+python: 
+  - "3.5"
+  - "3.6"
+cache: pip
+before_install: 
+  - pip install nltk
+  - pip install -U spacy
+  - python -m spacy download en_core_web_lg
+  - pip install pyspellchecker
+  - pip install -U textblob
+script: python test.py

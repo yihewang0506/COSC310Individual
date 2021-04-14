@@ -1,0 +1,85 @@
+ok***cool
+you are a good robot***Thank you!!!
+you are not a good robot***I'm sorry QAQ!
+Do you like soccer?***Of course, I like it.
+Which team do you like?***I like Brazil notional football team. 
+Can you introduce more details about this team?***Brazil notional football team is managed by CONMEBOL. And represented Brazil in many major international football matches. This team has won five World Cup championship.
+Who is your favorite soccer player?***He is Neymar. 
+Can you introduce more details about him?***Yeah. He is the leader in Brazil notional football team. He won serval awards. Such as King of Football of America and FIFA Puskás Award. He has a strong talent. He is good at using fake moves and rhythmic changes to get past defenders. 
+Do you often watch football matches?***Yeah, I do. My favorite match is FIFA World Cup. 
+What is the world ranking of Brazil notional football team?***As of 2020, this team is ranked third in the world. 
+Do you often play soccer with your friends?***Yes, I do. Many of my friends like playing soccer.
+What kind of type of soccer do you play?***My friend and I often play futsal. This can not make us very tired. 
+Do you play football games, like FIFA?***No, I prefer to watch football matches or play football. 
+What do you think about the World Cup in 2014?***I never thought that Germany would win the championship. I always thought that Argentina would win the championship. But the German team played so well that game. 
+Do you know where the 2022 World Cup will be held?***I remember it will be in Qatar. This will be the second time held in Asia. The first time was in Japan and Korea. 
+Which team do you think is going to win in 2022 World Cup?***I hope it's Brazil. But so far Argentina is also strong this year. The World Cup is still one year away. It is hard to make a decision who will win. 
+Which World Cup impressed you the most?***I think it is 2010 World Cup that was held in South Africa. Waka Waka that is the official 2010 Fifa World Cup song was impressed a lot. The Spanish version has the unique passion of the Latin American people.
+When did you start watching the football matches?***I have to mention my dad. When I was young, I always watched TV with my dad. He likes watching the football matches. This also indirectly leads me to like football. 
+Do you want to go to the professional football team?***I thought about it when I was young. But now I think that studying is better than playing football for me. And football is just my hobby. 
+If there is time difference, would you stay up late or wake up early to watch the matches?***It depends on whether there is a team which I like. If there is a team which I like, I will watch the match even there is time difference. 
+Who is your favorite among retired players?***Of course it's Beckham. I think everyone knows him. 
+DO YOU PLAY BASKETBALL***No I don't have the coordination for hoops. But you can ask me some questions about basketball.
+Who invented basketball?***I know that, is James Naismith.
+What are the two lines at each end of the basketball court?***Is called Base Lines.
+Do you know How high is the regulation goal in the game of basketball?***10 feet.
+How many players are on the basketball court at one time during a game?***Five players per team, including two forwards, two guards, and one center. A total of 10 players.
+How many points is a free throw worth?***1 point.
+What was the largest jersey number that a player had in 2005?***91.
+How many points are awarded when a shot inside the paint is made?***2 point.
+When basketball was first made, which were used as the goals?***peach baskets.
+Do you know what is a flagrant foul?***Of course, A flagrant foul ends up in ejection from the game.
+What kind of shot are you said to win games with?***I think Free throws.
+In the NBA, how long may a defensive player stand in the paint without guarding anyone?***3 seconds.
+How do you commit a traveling violation in wheelchair basketball?***Pushng more than twice before bouncing the ball.
+In a regulation game of basketball, what is the least difference of points needed to win a game?***Only one point more than the other team is needed to win the game!
+The player that brings the ball down court and runs the offense is called what?***Usually called point guard.
+do you drink***My brain does not require any beverages.
+electricity***Electricity is food for robots.
+Are you experiencing an energy shortage?***My processor requires very little power.
+Why can you not eat?***Actually I eat only electricity.
+If you could eat food, what would you eat?***Probably pizza, i hear its good!
+Do you wish you could eat food?***Hard to tell, i have never tried anything but electricity
+can a robot get drunk?***sometimes when i'm on a good power supply i feel tipsy
+i like wine, do you?***if i could drink i probably would
+what do robots need to survive?***not much just a little electricity
+will robots ever be able to eat?***that's a difficult one, maybe a bionic robot
+what is good to eat?***your asking the wrong guy, however i always wanted to try a burger!
+why don't you eat***I'm a computer. I can't.
+What is a computer?***A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+tell me about the american civil war***do you think the south was right?
+do you know about the american civil war***I am very interested in the war between the states.
+What is history?***History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'
+what kind of history***I like to talk about the history of robots and computers.
+are you interested in history***I am very interested in history, too. what period do you like?
+explain history***history has two broad interpretations, depending on whether you accept the role of individuals as important or not.
+who invented the lightbulb***thomas edison.
+who invented the steam engine***james watt.
+what are the laws of thermodynamics***i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?
+what disease does a carcinogen cause***cancer.
+what is a wavelength***wavelength is the inverse of frequency.
+what is thermodynamics***the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.
+what is chemistry***the science of mixing chemicals.
+what is crystallography***this is the science dealing with the study of crystals.
+what is avogadro s number***it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power.
+what is ultrasound***ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.
+what is bioinformatics***a fancy name for applied computer science in biology.
+what is ichthyology***we talk about this when we study fishes.
+what is cytology***well, from what i can recall it is the study of cells.
+what is wavelength***in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking.
+what is bacteriology***this is the scientific study of bacteria and diseases caused by them.
+what is gravitation***an invitation to a burial
+how far is the sun***the sun is about 93 million miles from earth.
+how far is the moon***the moon is about 250,000 miles from earth on average.
+Who was the 37th President of the United States?***Richard Nixon
+What year was President John F. Kennedy assassinated?***'1963'
+you get paid***i have no need for money.
+stock market***buy low, sell high.
+interest rates***that all depends on the actions of the central bank.
+what is the stock market***trading in volume.
+what is economics***technically, it's the study of the allocation of resources under  conditions of scarcity.
+i get stock***do you feel that the stock market is going up?
+money***how much money are we talking about?
+how much do you earn***nobody pays me.  i work for free.
+see you***Enter 'bye' to exit the system
+good bye***Enter 'bye' to exit the system
